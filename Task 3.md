@@ -26,5 +26,5 @@
 
 ### Решение
 
-[Слияние веток]()
+[Слияние веток](https://github.com/Ev-genia-Moon/Target/tree/main)
 
